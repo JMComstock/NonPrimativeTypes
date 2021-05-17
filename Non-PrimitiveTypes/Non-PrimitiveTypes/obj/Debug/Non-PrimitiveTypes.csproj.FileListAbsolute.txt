@@ -1,0 +1,7 @@
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Non-PrimitiveTypes\Non-PrimitiveTypes\bin\Debug\Non-PrimitiveTypes.exe.config
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Non-PrimitiveTypes\Non-PrimitiveTypes\bin\Debug\Non-PrimitiveTypes.exe
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Non-PrimitiveTypes\Non-PrimitiveTypes\bin\Debug\Non-PrimitiveTypes.pdb
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Non-PrimitiveTypes\Non-PrimitiveTypes\obj\Debug\Non-PrimitiveTypes.csprojAssemblyReference.cache
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Non-PrimitiveTypes\Non-PrimitiveTypes\obj\Debug\Non-PrimitiveTypes.csproj.CoreCompileInputs.cache
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Non-PrimitiveTypes\Non-PrimitiveTypes\obj\Debug\Non-PrimitiveTypes.exe
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\Non-PrimitiveTypes\Non-PrimitiveTypes\obj\Debug\Non-PrimitiveTypes.pdb
